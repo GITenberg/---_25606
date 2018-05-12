@@ -1,0 +1,38 @@
+_repo: '---_25606'
+_version: 0.1.0
+alternative_title: San Guo Zhi
+contributor:
+  commentator:
+    agent_name: Pei, Songzhi
+    alias: 裴松之
+    birthdate: 372
+    deathdate: 451
+    gutenberg_agent_id: '31455'
+    url: http://www.gutenberg.org/2009/agents/31455
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chen, Shou
+    alias: 陳壽
+    birthdate: 233
+    deathdate: 297
+    gutenberg_agent_id: '31454'
+    url: http://www.gutenberg.org/2009/agents/31454
+    wikipedia: http://zh.wikipedia.org/wiki/%E9%99%B3%E5%A3%BD
+description: 'This text is incomplete: 15 books of the 30-book history of Wei are
+  missing, and all 15 books of the history of Shu.'
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25606'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Three kingdoms, 220-265'
+- !lcc 'DS'
+title: 三國志
+url: http://www.gutenberg.org/ebooks/25606
