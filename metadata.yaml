@@ -23,6 +23,8 @@ creator:
     wikipedia: http://zh.wikipedia.org/wiki/%E9%99%B3%E5%A3%BD
 description: 'This text is incomplete: 15 books of the 30-book history of Wei are
   missing, and all 15 books of the history of Shu.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25606#---
 gutenberg_issued: '2008-05-26'
 gutenberg_type: Text
 identifiers:
